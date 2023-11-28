@@ -19,5 +19,11 @@ This tutorial outlines the Step by Step process of setting up a CHAT BOT in Micr
 
 
 
-<
+<img src="https://i.imgur.com/aF1tfBr.png" alt="osTicket logo"/>
+
+<img src="https://i.imgur.com/LLnagHt.png" alt="osTicket logo"/>
+
+<img src="https://i.imgur.com/pRDSR6o.png" alt="osTicket logo"/>
+
+
 <br />
