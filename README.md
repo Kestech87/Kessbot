@@ -22,6 +22,8 @@ This tutorial outlines the Step by Step process of setting up a CHAT BOT in Micr
 The first thing i did was research how to set up a chat bot in Azure. 
 We must first set up the prerequisites that the chat bot would use as its basis of information.
 
+The bot uses source code, so we must 
+
 
 
 
